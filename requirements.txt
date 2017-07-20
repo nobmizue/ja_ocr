@@ -1,0 +1,5 @@
+Flask==0.12.2
+google-api-python-client==1.5.4
+requests==2.18.1
+google-cloud==0.24.0
+six==1.10.0
