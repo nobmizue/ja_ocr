@@ -1,5 +1,5 @@
 Flask==1.0.0
 google-api-python-client==1.5.4
-requests==2.18.1
+requests==2.20.0
 google-cloud==0.24.0
 six==1.10.0
